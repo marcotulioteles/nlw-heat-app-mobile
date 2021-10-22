@@ -3,6 +3,7 @@
     "name": "nlw-heat-app-mobile",
     "slug": "nlw-heat-app-mobile",
     "version": "1.0.0",
+    "scheme": "nlw-heat-app-mobile",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
